@@ -1,0 +1,5 @@
+//This program reads in three numbers and writes them all in sorted order
+
+1.	Set numbers counter to 3
+2.	Set sort order to ascending or descending
+3.	Print sorted order

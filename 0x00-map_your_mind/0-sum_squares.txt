@@ -1,0 +1,7 @@
+//This program is for calculate the sum of squares of given input of numbers
+
+1.	Let input numbers be equal to Number A and Number B
+2.	Initialize Number A to multiply by itself to get the square of Number A 
+3.	Initialize Number B to multiply by itself to get the square of Number B 
+4.	Set total to number A square total added to number B square. 
+5.	Print total

@@ -1,0 +1,8 @@
+
+//This program is calculating a running sum
+
+1.	Set numbers to be running to a set of integers
+2.	Set continue to add to sum if sum is equal to positive
+3.	Set sum to stop adding if sum is negative number
+4.	 If sum is equal to negative number 
+5.	Print ‘final results’
